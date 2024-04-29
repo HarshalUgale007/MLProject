@@ -4,5 +4,6 @@
         "HYPEN",
         "mlprojectds",
         "monitering"
-    ]
+    ],
+    "python.REPL.enableREPLSmartSend": false
 }
