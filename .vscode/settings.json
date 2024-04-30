@@ -1,9 +1,14 @@
 {
     "cSpell.words": [
+        "dotenv",
         "filedir",
         "HYPEN",
+        "levelname",
         "mlprojectds",
-        "monitering"
+        "monitering",
+        "mydb",
+        "passs",
+        "pymysql"
     ],
     "python.REPL.enableREPLSmartSend": false
 }
