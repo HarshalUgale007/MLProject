@@ -10,5 +10,6 @@
         "passs",
         "pymysql"
     ],
-    "python.REPL.enableREPLSmartSend": false
+    "python.REPL.enableREPLSmartSend": false,
+    "python.analysis.autoImportCompletions": true
 }
