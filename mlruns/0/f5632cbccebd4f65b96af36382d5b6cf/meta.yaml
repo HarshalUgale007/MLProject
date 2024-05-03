@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/Projects/MLProjectDS/mlruns/0/f5632cbccebd4f65b96af36382d5b6cf/artifacts
+end_time: 1714753710654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5632cbccebd4f65b96af36382d5b6cf
+run_name: welcoming-slug-258
+run_uuid: f5632cbccebd4f65b96af36382d5b6cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714753694097
+status: 3
+tags: []
+user_id: root

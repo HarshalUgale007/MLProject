@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/Projects/MLProjectDS/mlruns/0/091b025339e540fd988285e8ce8c28fb/artifacts
+end_time: 1714753442042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 091b025339e540fd988285e8ce8c28fb
+run_name: welcoming-asp-85
+run_uuid: 091b025339e540fd988285e8ce8c28fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714753415825
+status: 3
+tags: []
+user_id: root

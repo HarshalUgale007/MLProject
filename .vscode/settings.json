@@ -9,7 +9,8 @@
         "monitering",
         "mydb",
         "passs",
-        "pymysql"
+        "pymysql",
+        "xgboost"
     ],
     "python.REPL.enableREPLSmartSend": false,
     "python.analysis.autoImportCompletions": true
