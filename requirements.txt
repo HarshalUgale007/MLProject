@@ -6,7 +6,7 @@ mysql-connector-python
 pymysql
 scikit-learn
 seaborn
-atboost
+catboost
 xgboost
 
 
